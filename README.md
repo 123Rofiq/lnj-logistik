@@ -14,4 +14,4 @@ php artisan migrate:refresh --seed <br>
 #run app <br>
 php artisan serve <br>
 #halaman awal<br>
- <img src="/public/images/demo/1.JPG" width="118" alt="Brand Logo"> <br>
+ <img src="/public/images/demo/1.JPG" width="500" alt="Brand Logo"> <br>
