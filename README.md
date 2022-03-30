@@ -15,3 +15,15 @@ php artisan migrate:refresh --seed <br>
 php artisan serve <br>
 #halaman awal<br>
  <img src="/public/images/demo/1.JPG" width="500" alt="Brand Logo"> <br>
+ #halaman login<br>
+ <img src="/public/images/demo/2.JPG" width="500" alt="Brand Logo"> <br>
+ #halaman Register<br>
+ <img src="/public/images/demo/3.JPG" width="500" alt="Brand Logo"> <br>
+ #halaman Dasboard<br>
+ <img src="/public/images/demo/4.JPG" width="500" alt="Brand Logo"> <br>
+  #CRUD Customer<br>
+ <img src="/public/images/demo/4.JPG" width="500" alt="Brand Logo"> <br>
+  #CRUD Container<br>
+ <img src="/public/images/demo/4.JPG" width="500" alt="Brand Logo"> <br>
+  #halaman Transaksi<br>
+ <img src="/public/images/demo/4.JPG" width="500" alt="Brand Logo"> <br>
