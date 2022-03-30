@@ -22,8 +22,15 @@ php artisan serve <br>
  #halaman Dasboard<br>
  <img src="/public/images/demo/4.JPG" width="500" alt="Brand Logo"> <br>
   #CRUD Customer<br>
- <img src="/public/images/demo/4.JPG" width="500" alt="Brand Logo"> <br>
+ <img src="/public/images/demo/5.jpeg" width="500" alt="Brand Logo"> <br>
+ <img src="/public/images/demo/6.jpeg" width="500" alt="Brand Logo"> <br>
+ <img src="/public/images/demo/7.jpeg" width="500" alt="Brand Logo"> <br>
+  <img src="/public/images/demo/8.jpeg" width="500" alt="Brand Logo"> <br>
   #CRUD Container<br>
- <img src="/public/images/demo/4.JPG" width="500" alt="Brand Logo"> <br>
+ <img src="/public/images/demo/9.jpeg" width="500" alt="Brand Logo"> <br>
+  <img src="/public/images/demo/10.jpeg" width="500" alt="Brand Logo"> <br>
+  <img src="/public/images/demo/11.jpeg" width="500" alt="Brand Logo"> <br>
+  <img src="/public/images/demo/12.jpeg" width="500" alt="Brand Logo"> <br>
   #halaman Transaksi<br>
- <img src="/public/images/demo/4.JPG" width="500" alt="Brand Logo"> <br>
+ <img src="/public/images/demo/13.jpeg" width="500" alt="Brand Logo"> <br>
+  <img src="/public/images/demo/14.jpeg" width="500" alt="Brand Logo"> <br>
