@@ -18,11 +18,20 @@ Route::get('/', function () {
 });
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
-
+// Route::get('/home', 'HomeController@index')->name('home');
+// Route::post('/home/submit_home_data', 'HomeController@submit_home_data')->name('post.data');
+// Route::get('/home/json','HomeController@json')->name('home.json');
+// Route::resource('posts', 'HomeController');
+// Route::post('/data', 'HomeController@submit_customer_data')->name('data.post');
+Route::resource('home', 'HomeController');
 /** Grafik */
 Route::get('/grafik/transaksi/status', 'ChartController@transaksi_status')->name('grafik.transaksi.status');
-
+/**
+ * import data
+ */
+Route::get('export', 'ImportController@export')->name('export');
+Route::get('importExportView', 'ImportController@importExportView');
+Route::post('import', 'ImportController@import')->name('import');
 
 /** CRUD Customer */
 Route::get('/customer', 'CustomersController@add_customer_form')->name('customer.add');

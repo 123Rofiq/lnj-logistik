@@ -19,4 +19,8 @@ php artisan serve <br>
  <img src="/public/images/demo/2.JPG" width="500" alt="Brand Logo"> <br>
  #halaman Register<br>
  <img src="/public/images/demo/3.JPG" width="500" alt="Brand Logo"> <br>
- #halaman Dasboard<br>
+ #halaman Data CRUD dan Panel Stage<br>
+ <img src="/public/images/demo/15.jpeg" width="500" alt="Brand Logo"> <br>
+  <img src="/public/images/demo/16.jpeg" width="500" alt="Brand Logo"> <br>
+   <img src="/public/images/demo/17.jpeg" width="500" alt="Brand Logo"> <br>
+    <img src="/public/images/demo/18.jpeg" width="500" alt="Brand Logo"> <br>
