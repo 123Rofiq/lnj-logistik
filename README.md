@@ -3,7 +3,8 @@ Berikut repository demo tes program beserta file mysql
 
 Demo Tes Program Programer Akhmad Hasan Arofid
 
-#proses install git remote https://github.com/123Rofiq/lnj-logistik.git demo <br>
+#proses install <br>
+ git clone https://github.com/123Rofiq/lnj-logistik.git demo <br>
 cd demo <br>
 composer install<br>
 #generate key php artisan key:generate <br>
