@@ -14,12 +14,18 @@ composer install<br>
 php artisan migrate:refresh --seed <br>
 #run app <br>
 php artisan serve <br>
+
 #halaman awal<br>
  <img src="/public/images/demo/1.JPG" width="500" alt="Brand Logo"> <br>
  #halaman login<br>
  <img src="/public/images/demo/2.JPG" width="500" alt="Brand Logo"> <br>
  #halaman Register<br>
  <img src="/public/images/demo/3.JPG" width="500" alt="Brand Logo"> <br>
+ #import data excel
+http://localhost:8000/importExportView
+ #contoh file import
+ contoh_file_import.xlsx
+  
  #halaman Data CRUD dan Panel Stage<br>
  <img src="/public/images/demo/15.jpeg" width="500" alt="Brand Logo"> <br>
   <img src="/public/images/demo/16.jpeg" width="500" alt="Brand Logo"> <br>
